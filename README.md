@@ -1,5 +1,7 @@
 # RMF-Navigation
 
+Developed a high-fidelity multi-robot autonomous navigation and fleet orchestration system using ROS 2, Open-RMF, and Gazebo for complex indoor hospital simulation environments. Implemented intelligent traffic management, multi-floor navigation, automated door integration, and lift/elevator coordination enabling robots to autonomously traverse dynamic, access-controlled infrastructures. Designed RMF traffic graphs, fleet adapters, and infrastructure communication interfaces to support scalable task scheduling, congestion handling, collision avoidance, and real-time mission execution across heterogeneous robotic fleets. Validated autonomous workflows including room delivery, docking, cross-floor transport, and shared corridor navigation within realistic digital twin environments.
+
 
 <img width="3672" height="2026" alt="workshop" src="https://github.com/user-attachments/assets/6af68234-7b44-4e8f-82be-53ae7f3fd374" />
 
